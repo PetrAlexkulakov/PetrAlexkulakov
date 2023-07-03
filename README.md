@@ -41,5 +41,6 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrAlexkulakov&hide_border=true&layout=compact" align="center" /></div>  
+## Stats  
+<img height="170em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrAlexkulakov&hide_border=true&layout=compact" align="left" />
+<img height="170em" width="47%" align="right" alt="Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rsschool_3ef537cd7e44cc7a" />
