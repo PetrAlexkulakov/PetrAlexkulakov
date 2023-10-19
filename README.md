@@ -32,11 +32,14 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/PetrAlexkulakov" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/petr-kulakov" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://t.me/gres_cent" target="_blank">
+  <img src=https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png alt=telegram style="width:3%; margin-bottom: 5px;" />
+</a>
 </div>  
 
 <br/>  
