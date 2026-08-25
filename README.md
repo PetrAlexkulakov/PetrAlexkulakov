@@ -44,5 +44,6 @@
 
 <br/>  
 
-## Stats  
-<img height="170em" width="47%" align="center" alt="Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rsschool_882b45d346b12b5b" />
+## Stats 
+<img height="170" width="47%" align="left" src="./profile/top-langs.svg" />
+<img height="170em" width="47%" align="right" alt="Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rsschool_882b45d346b12b5b" />
