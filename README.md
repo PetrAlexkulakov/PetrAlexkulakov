@@ -24,7 +24,6 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" /></a>&nbsp;&nbsp;
-<a href="http://getbem.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>
 </div>
 
 <br/>  
