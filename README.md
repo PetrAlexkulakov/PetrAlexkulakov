@@ -45,6 +45,4 @@
 <br/>  
 
 ## Stats  
-<img height="170" width="47%" align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrAlexkulakov&hide_border=true&layout=compact&cache_seconds=86400" />
 <img height="170em" width="47%" align="right" alt="Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rsschool_882b45d346b12b5b" />
